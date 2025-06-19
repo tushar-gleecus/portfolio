@@ -9,7 +9,7 @@ import UIImage2 from '../images/ui-project-2.jpg';
 export const projectsData = [
 	{
 		id: 1,
-		title: 'Google Health Platform',
+		title: 'Django CSV Analysis Webapp',
 		category: 'Web Application',
 		img: WebImage2,
 		ProjectHeader: {
@@ -20,31 +20,31 @@ export const projectsData = [
 	},
 	{
 		id: 2,
-		title: 'Phoenix Digital Agency',
-		category: 'Mobile Application',
+		title: 'Video Captioning with Keras',
+		category: 'Web Application',
 		img: MobileImage2,
 	},
 	{
 		id: 3,
-		title: 'Project Management UI',
-		category: 'UI/UX Design',
+		title: 'Traffic Sign Recognition using Machine Learning',
+		category: 'Web Application',
 		img: UIImage1,
 	},
 	{
 		id: 4,
-		title: 'Cloud Storage Platform',
-		category: 'UI/UX Design',
+		title: 'License Plate Detection using OpenCVand Neural Networks',
+		category: 'Web Application',
 		img: UIImage2,
 	},
 	{
 		id: 5,
-		title: 'React Social App',
-		category: 'Mobile Application',
+		title: 'Whisper AI - Automatic Subtitle Translator',
+		category: 'Web Application',
 		img: MobileImage1,
 	},
 	{
 		id: 6,
-		title: 'Apple Design System',
+		title: 'Wall Crack Detection using CNN',
 		category: 'Web Application',
 		img: WebImage1,
 	},
